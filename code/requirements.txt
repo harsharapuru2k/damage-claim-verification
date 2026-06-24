@@ -1,0 +1,4 @@
+# Requires Python 3.10+  (use python3.11 on macOS)
+boto3>=1.34.0
+botocore>=1.34.0
+python-dotenv>=1.0.0
